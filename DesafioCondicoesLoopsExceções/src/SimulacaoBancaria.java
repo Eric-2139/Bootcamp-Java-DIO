@@ -56,9 +56,8 @@ public class SimulacaoBancaria {
       if (opcao == 0) {
         break;
       }
-
-      scanner.close();
     }
+    scanner.close();
   }
 }
 
