@@ -1,4 +1,4 @@
-package com.java.List.OperacoesBasicas.Exemplo_2;
+package com.java.List.OperacoesBasicas.Exercicio_02;
 
 public class Item {
 

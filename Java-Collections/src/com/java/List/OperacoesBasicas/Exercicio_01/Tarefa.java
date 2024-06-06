@@ -1,4 +1,4 @@
-package com.java.List.OperacoesBasicas.Exemplo_1;
+package com.java.List.OperacoesBasicas.Exercicio_01;
 
 public class Tarefa {
     private String descricao;
