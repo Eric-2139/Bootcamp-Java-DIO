@@ -8,8 +8,8 @@ public class Exercicio_09 {
         List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4, 3);
 
         List<Integer> listaSemNumerosRepetidos = numeros.stream()
-        .distinct()
-        .toList();
+                .distinct()
+                .toList();
 
         System.out.println(listaSemNumerosRepetidos);
     }
